@@ -1,5 +1,7 @@
 Arquivo principal a ser exceutado: main.py
+
 Arquivo de entrada com testes: testes.in
+
 Observações sobre os testes: Documentation
 
 # Trabalho no olist
