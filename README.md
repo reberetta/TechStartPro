@@ -1,3 +1,6 @@
+Arquivo principal a ser exceutado: main.py
+Arquivo de entrada com testes: testes.in
+Observações sobre os testes: Documentation
 
 # Trabalho no olist
 Olist é uma empresa que oferece uma plataforma de integração para vendedores e marketplaces, permitindo-lhes vender seus produtos em vários canais.
